@@ -8,8 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@capacitor/browser": "^6.0.3",
     "@capacitor/cli": "^6.1.2",
     "@capacitor/core": "^6.1.2",
+    "@capacitor/splash-screen": "^6.0.2",
     "core-js": "^3.8.3",
     "vue": "^3.2.13"
   },
