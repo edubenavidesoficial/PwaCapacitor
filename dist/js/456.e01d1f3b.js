@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_pwa_app"]=self["webpackChunkmy_pwa_app"]||[]).push([[456],{5456:function(n,s,e){e.r(s),e.d(s,{Browser:function(){return i},BrowserWeb:function(){return t}});var o=e(2717);class t extends o.E_{constructor(){super(),this._lastWindow=null}async open(n){this._lastWindow=window.open(n.url,n.windowName||"_blank")}async close(){return new Promise(((n,s)=>{null!=this._lastWindow?(this._lastWindow.close(),this._lastWindow=null,n()):s("No active window to close!")}))}}const i=new t}}]);
+//# sourceMappingURL=456.e01d1f3b.js.map

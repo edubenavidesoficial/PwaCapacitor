@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_pwa_app"]=self["webpackChunkmy_pwa_app"]||[]).push([[370],{3370:function(e,s,a){a.r(s),a.d(s,{SplashScreenWeb:function(){return p}});var n=a(2717);class p extends n.E_{async show(e){}async hide(e){}}}}]);
+//# sourceMappingURL=370.bfff587c.js.map

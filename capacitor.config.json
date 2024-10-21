@@ -1,6 +1,6 @@
 {
   "appId": "com.ingealimite.mercadomi",
-  "appName": "ingealimite",
+  "appName": "Mercadomi",
   "webDir": "dist",
   "plugins": {
     "SplashScreen": {
